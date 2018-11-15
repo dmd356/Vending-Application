@@ -1,0 +1,20 @@
+﻿Table Item(
+{|0||Chips||.75||5|}
+{|1||Chocolate Bar||1.5||5|}
+{|2||Cookies||.6||5|}
+{|3||Soda||.5||5|}
+{|4||Gum||.25||5|}
+{|5||Good Cyanide||.00||5|}
+{|6||Bad Cyanide||.00||5|}
+{|7||Best Cyanide||.00||5|}
+{|8||Cyan Cyanide||.00||5|}
+{|9||Yummy Cyanide||.00||5|}
+);
+
+Table User(
+{|0||ChuckMissler101||Acts17||11|}
+{|1||PeterRuckman101||1Thess5||21|}
+{|2||ClarenceLarkin101||Revelations3||22|}
+{|3||GeneKim101||1Corinthians15||1.8|}
+{|4||RobertBreaker101||1John1||4|}
+);
